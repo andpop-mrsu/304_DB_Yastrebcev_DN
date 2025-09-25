@@ -1,0 +1,18 @@
+Версия SQLite: 3.50.4
+
+Режимы вывода данных, доступные в утилите sqlite3:
+ascii
+box
+column
+csv
+html
+insert
+json
+line
+list
+markdown
+qbox
+quote
+table
+tabs
+tcl
